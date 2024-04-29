@@ -1,0 +1,13 @@
+@echo off
+
+set "file=checksums.md5"
+
+if exist %file% (
+	echo Updating %file%...
+	gchecksum-0.13.0.exe update -y -a MD5 -d ../Files -f %file%
+) else (
+	echo Creating %file%...
+	gchecksum-0.13.0.exe create -y -a MD5 -d ../Files -f %file%
+)
+
+@pause
