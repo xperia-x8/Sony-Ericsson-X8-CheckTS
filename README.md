@@ -9,3 +9,4 @@
 ## Requirements
 * Root
 * ADB Debug
+* BusyBox
