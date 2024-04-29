@@ -1,7 +1,7 @@
 # Sony Ericsson Xperia X8 (Check Touch Screen)
 ![ScreenShot](SS.jpg)
 
-## Thanks to [flooderv1](https://4pda.to/forum/index.php?showuser=1084855)
+## Thanks to [flooderv1](https://4pda.to/forum/index.php?showuser=1084855)!
 
 ## Mirrors
 * https://disk.yandex.ru/d/9jWnhYnQNw4UHA
