@@ -1,4 +1,0 @@
-<3>[    2.414301] cyttsp_init: Failed to request GPIO 112
-<3>[    2.418916] cyttsp_core_init: platform init failed! 
-<4>[    2.423914] cyttsp-i2c: probe of 0-0024 failed with error -12
-<6>[    2.429746] cyttsp_i2c_init: Cypress TrueTouch(R) Standard Product I2C Touchscreen Driver (Built Jan 18 2011 @ 23:43:30) returned 0
